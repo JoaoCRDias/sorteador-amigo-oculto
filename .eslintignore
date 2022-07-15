@@ -1,0 +1,10 @@
+/config
+/scripts
+/public
+/node_modules
+/coverage
+/build
+/dist
+/component-test
+/smoke-test
+/azure-pipelines.yml
